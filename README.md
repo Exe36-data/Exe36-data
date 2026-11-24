@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Exequiel 👋 | ¡Hola! Soy Exequiel 👋
+# Hi there, I'm Exequiel | Hola, soy Exequiel 👋
 
 ### Chemical Engineer · Exploring Data Analytics | Ingeniero Químico · Explorando el Análisis de Datos
 
