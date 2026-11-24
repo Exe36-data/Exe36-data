@@ -14,7 +14,7 @@ Soy Exequiel, un ingeniero químico que acaba de descubrir lo fascinante que es 
 - 🌱 Actualmente estoy aprendiendo sobre este mundo del análisis de datos.
 - 📊 Estoy desarrollando mis habilidades en limpieza, análisis y visualización de datos.
 - 🎯 Buscando conectar, compartir lo que aprendo y participar en proyectos de datos interesantes. -->
-
+---
 ## About Me 💡
 
 I am Exequiel, a chemical engineer who has just found data analytics awesome. Coming from an engineering background, I love breaking down systems, spotting patterns, and turning raw numbers into clear, practical insights.
