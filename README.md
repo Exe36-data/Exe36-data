@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
 
 # Hi there, I'm Exequiel 👋 | ¡Hola! Soy Exequiel 👋
 
@@ -23,5 +23,5 @@ I am Exequiel, a chemical engineer who has just found data analytics awesome. Co
 Soy Exequiel, un ingeniero químico que acaba de descubrir lo fascinante que es el análisis de datos. Gracias a mi formación en ingeniería, disfruto desglosar sistemas, detectar patrones y transformar datos en información clara y práctica.
 
 - 🌱 Actualmente estoy aprendiendo sobre este mundo del análisis de datos.
-- 📊 Desarrollando mis habilidades en limpieza, análisis y visualización de datos.
+- 📊 Estoy desarrollando mis habilidades en limpieza, análisis y visualización de datos.
 - 🎯 Buscando conectar, compartir lo que aprendo y participar en proyectos de datos interesantes. -->
